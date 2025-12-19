@@ -1,0 +1,12 @@
+streamlit
+nest_asyncio
+llama-index-core
+llama-index-llms-google-genai
+llama-index-embeddings-huggingface
+llama-index-readers-file
+google-generativeai
+transformers
+torch
+sentence-transformers
+numpy
+tqdm
