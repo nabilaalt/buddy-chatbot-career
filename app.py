@@ -9,7 +9,7 @@ from llama_index.core.memory import ChatMemoryBuffer
 nest_asyncio.apply()
 
 # ================= API KEY =================
-GOOGLE_API_KEY = "AIzaSyA310pkbr0mg-m5agXKNTsIc3GaorJyheM"
+GOOGLE_API_KEY = "AIzaSyDr6JUby44G8OsAMAjidY0leA0IuAZ8egw"
 
 # ================= PAGE CONFIG =================
 st.set_page_config(
